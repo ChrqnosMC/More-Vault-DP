@@ -1,0 +1,18 @@
+{
+	"criteria": {
+	  "dreaming_duration": {
+		"trigger": "minecraft:effects_changed",
+		"conditions": {
+		  "effects": {
+			"more_vault:dreaming": {
+			  "amplifier": {
+				"min": 3.0,
+				"max": 4.0
+			  },
+			  "duration": 72000
+			}
+		  }
+		}
+	  }
+	}
+  }
