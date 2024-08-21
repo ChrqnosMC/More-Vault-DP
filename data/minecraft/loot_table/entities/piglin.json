@@ -11,6 +11,12 @@
               "condition": "minecraft:killed_by_player"
             },
             {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "structures": "minecraft:bastion_remnant"
+              }
+            },
+            {
               "condition": "minecraft:inverted",
               "term": {
                 "condition": "minecraft:entity_properties",
@@ -18,9 +24,6 @@
                 "predicate": {
                   "effects": {
                     "more_vault:bastion_omen": {}
-                  },
-                  "location": {
-                    "structures": "minecraft:bastion_remnant"
                   }
                 }
               }
