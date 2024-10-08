@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"More Vault datapack has been reloaded","bold":true,"color":"white"}]
+tellraw @a ["",{"text":"More Vault datapack has been reloaded"}]
