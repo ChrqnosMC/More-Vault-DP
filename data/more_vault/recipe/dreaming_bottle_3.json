@@ -15,6 +15,7 @@
         }
     ],
     "result": {
+        "count": 1,
         "id": "minecraft:ominous_bottle",
         "components": {
             "item_name": "'Dreaming Bottle'",
@@ -24,7 +25,6 @@
             "lore": [
                 "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle_3', 'fallback': 'Dreaming III (1:00:00)' }"
             ]
-        },
-        "count": 1
+        }
     }
 }
