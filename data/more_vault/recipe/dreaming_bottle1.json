@@ -17,7 +17,7 @@
             "ominous_bottle_amplifier": 0.0,
             "hide_additional_tooltip": {},
             "lore": [
-                "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle_1', 'fallback': 'Dreaming (20:00)' }"
+                "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
             ]
         }
     }
