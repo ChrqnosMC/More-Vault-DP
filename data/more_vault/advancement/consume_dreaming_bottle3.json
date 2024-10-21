@@ -13,7 +13,7 @@
 						"minecraft:item_name": "'Dreaming Bottle'",
 						"hide_additional_tooltip": {},
 						"lore": [
-							"{ 'color': 'blue', 'italic': false, 'translate': 'item.minecraft.dreaming_bottle_3', 'fallback': 'Dreaming III (1:00:00)' }"
+							"{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle_3', 'fallback': 'Dreaming III (1:00:00)' }"
 						]
 					}
 				}
