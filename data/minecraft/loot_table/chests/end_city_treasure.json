@@ -375,20 +375,20 @@
                   },
                   "has_consume_particles": false,
                   "on_consume_effects": [
-                      {
-                          "type": "apply_effects",
-                          "effects": [
-                              {
-                                  "id": "more_vault:dreaming",
-                                  "duration": 96000,
-                                  "amplifier": 3
-                              }
-                          ]
-                      },
-                      {
-                          "type": "play_sound",
-                          "sound": "item.ominous_bottle.dispose"
-                      }
+                    {
+                      "type": "apply_effects",
+                      "effects": [
+                        {
+                          "id": "more_vault:dreaming",
+                          "duration": 96000,
+                          "amplifier": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "play_sound",
+                      "sound": "item.ominous_bottle.dispose"
+                    }
                   ]
                 }
               }
@@ -420,20 +420,20 @@
                   },
                   "has_consume_particles": false,
                   "on_consume_effects": [
-                      {
-                          "type": "apply_effects",
-                          "effects": [
-                              {
-                                  "id": "more_vault:dreaming",
-                                  "duration": 120000,
-                                  "amplifier": 4
-                              }
-                          ]
-                      },
-                      {
-                          "type": "play_sound",
-                          "sound": "item.ominous_bottle.dispose"
-                      }
+                    {
+                      "type": "apply_effects",
+                      "effects": [
+                        {
+                          "id": "more_vault:dreaming",
+                          "duration": 120000,
+                          "amplifier": 4
+                        }
+                      ]
+                    },
+                    {
+                      "type": "play_sound",
+                      "sound": "item.ominous_bottle.dispose"
+                    }
                   ]
                 }
               }

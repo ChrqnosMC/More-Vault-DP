@@ -378,28 +378,28 @@
                 "item_model": "more_vault:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                    "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
                 ],
                 "consumable": {
                   "sound": {
-                      "sound_id": "entity.generic.drink"
+                    "sound_id": "entity.generic.drink"
                   },
                   "has_consume_particles": false,
                   "on_consume_effects": [
-                      {
-                          "type": "apply_effects",
-                          "effects": [
-                              {
-                                  "id": "more_vault:dreaming",
-                                  "duration": 96000,
-                                  "amplifier": 3
-                              }
-                          ]
-                      },
-                      {
-                          "type": "play_sound",
-                          "sound": "item.ominous_bottle.dispose"
-                      }
+                    {
+                      "type": "apply_effects",
+                      "effects": [
+                        {
+                          "id": "more_vault:dreaming",
+                          "duration": 96000,
+                          "amplifier": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "play_sound",
+                      "sound": "item.ominous_bottle.dispose"
+                    }
                   ]
                 }
               }
@@ -422,28 +422,28 @@
                 "item_model": "more_vault:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                    "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
                 ],
                 "consumable": {
                   "sound": {
-                      "sound_id": "entity.generic.drink"
+                    "sound_id": "entity.generic.drink"
                   },
                   "has_consume_particles": false,
                   "on_consume_effects": [
-                      {
-                          "type": "apply_effects",
-                          "effects": [
-                              {
-                                  "id": "more_vault:dreaming",
-                                  "duration": 120000,
-                                  "amplifier": 4
-                              }
-                          ]
-                      },
-                      {
-                          "type": "play_sound",
-                          "sound": "item.ominous_bottle.dispose"
-                      }
+                    {
+                      "type": "apply_effects",
+                      "effects": [
+                        {
+                          "id": "more_vault:dreaming",
+                          "duration": 120000,
+                          "amplifier": 4
+                        }
+                      ]
+                    },
+                    {
+                      "type": "play_sound",
+                      "sound": "item.ominous_bottle.dispose"
+                    }
                   ]
                 }
               }
