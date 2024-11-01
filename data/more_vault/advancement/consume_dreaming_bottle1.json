@@ -10,7 +10,7 @@
 					"components": {
 						"item_name": "'Dreaming Bottle'",
 						"custom_model_data": 1,
-						"!ominous_bottle_amplifier": {},
+						"hide_additional_tooltip": {},
 						"lore": [
 							"{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming I (20:00)' }"
 						]

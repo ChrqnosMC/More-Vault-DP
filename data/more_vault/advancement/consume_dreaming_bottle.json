@@ -10,7 +10,7 @@
 					"components": {
 						"item_name": "'Dreaming Bottle'",
 						"custom_model_data": 1,
-						"!ominous_bottle_amplifier": {}
+						"hide_additional_tooltip": {}
 					}
 				}
 			}
