@@ -50,7 +50,11 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Echo Key'",
-                "minecraft:item_model": "more_vault:echo_key"
+                "custom_model_data": {
+                  "floats": [
+                    3.0
+                  ]
+                }
               }
             }
           ]
