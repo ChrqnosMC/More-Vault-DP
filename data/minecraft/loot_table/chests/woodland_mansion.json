@@ -302,11 +302,13 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "minecraft:empty"
+          "type": "minecraft:empty",
+          "weight": 3
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:totem_of_undying"
+          "name": "minecraft:totem_of_undying",
+          "weight": 1
         }
       ],
       "rolls": 1.0
