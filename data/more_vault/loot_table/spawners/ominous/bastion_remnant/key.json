@@ -12,7 +12,11 @@
                 "function": "minecraft:set_components",
                 "components": {
                   "minecraft:item_name": "'Ominous Bastion Key'",
-                  "minecraft:custom_model_data": 1
+                  "minecraft:custom_model_data": {
+                    "floats": [
+                      1.0
+                    ]
+                  }
                 }
               }
             ]
