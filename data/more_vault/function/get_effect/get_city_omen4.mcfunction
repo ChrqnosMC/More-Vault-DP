@@ -1,4 +1,0 @@
-effect clear @s bad_omen
-effect give @s more_vault:city_omen 3600 3
-advancement revoke @s only more_vault:enter_end_city_with_bad_omen
-advancement revoke @s only more_vault:enter_end_city_with_bad_omen4
