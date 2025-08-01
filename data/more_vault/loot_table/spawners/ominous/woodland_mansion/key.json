@@ -11,7 +11,7 @@
               {
                 "function": "minecraft:set_components",
                 "components": {
-                  "minecraft:item_name": "'Ominous Woodland Key'",
+                  "minecraft:item_name": "Ominous Woodland Key",
                   "minecraft:custom_model_data": {
                     "floats": [
                       4.0

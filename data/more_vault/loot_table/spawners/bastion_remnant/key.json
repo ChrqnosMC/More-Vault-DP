@@ -11,7 +11,7 @@
               {
                 "function": "minecraft:set_components",
                 "components": {
-                  "minecraft:item_name": "'Bastion Key'",
+                  "minecraft:item_name": "Bastion Key",
                   "minecraft:custom_model_data": {
                     "floats": [
                       1.0
