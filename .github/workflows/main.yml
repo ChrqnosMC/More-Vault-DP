@@ -20,7 +20,7 @@ jobs:
           cd src
           tag=${{github.ref_name}}
           echo "tag=$tag" >> $GITHUB_ENV
-          echo "name=more-vault-dp" >> $GITHUB_ENV
+          echo "name=better-tricky-trials-dp" >> $GITHUB_ENV
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
@@ -40,7 +40,7 @@ jobs:
           modrinth-token: ${{secrets.ACCESS_TOKEN}}
           modrinth-id: tuMbzi13
           game-version-filter: none
-          name: More Vault DP ${{env.tag}}
+          name: Better Tricky Trials DP ${{env.tag}}
           version: ${{env.tag}}
           files: |
             src/${{env.name}}-${{env.tag}}.zip

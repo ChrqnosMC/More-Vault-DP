@@ -1,10 +1,10 @@
 {
 	"pack": {
 		"pack_format": 88,
-    	"supported_formats": [51,88],
-		"min_format": [51,0],
+    	"supported_formats": [45,88],
+		"min_format": [45,0],
 		"max_format": [88,0],
-		"description": "More Vault"
+		"description": "Better Tricky Trials"
 	},
 	"overlays": {
 		"entries": [
@@ -13,6 +13,18 @@
 				"min_format": [51,0],
 				"max_format": [61,0],
 				"directory": "overlay_51"
+			},
+			{
+				"formats": [51,88],
+				"min_format": [51,0],
+				"max_format": [88,0],
+				"directory": "overlay_51_2"
+			},
+			{
+				"formats": [59,88],
+				"min_format": [59,0],
+				"max_format": [88,0],
+				"directory": "overlay_59"
 			},
 			{
 				"formats": [62,88],

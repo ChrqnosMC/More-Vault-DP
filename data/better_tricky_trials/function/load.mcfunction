@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Better Tricky Trials datapack has been reloaded"}]

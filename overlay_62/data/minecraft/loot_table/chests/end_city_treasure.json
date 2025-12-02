@@ -371,7 +371,7 @@
                 },
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.better_tricky_trials.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
                 ]
               }
             }
@@ -398,7 +398,7 @@
                 },
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.better_tricky_trials.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
                 ]
               }
             }
