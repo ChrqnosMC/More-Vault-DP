@@ -1,7 +1,9 @@
 {
 	"pack": {
-		"pack_format": 81,
-		"supported_formats": [51,81],
+		"pack_format": 88,
+    	"supported_formats": [51,88],
+		"min_format": [51,0],
+		"max_format": [88,0],
 		"description": "More Vault"
 	}
 }

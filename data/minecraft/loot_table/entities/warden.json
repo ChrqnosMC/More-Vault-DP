@@ -49,7 +49,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:item_name": "'Echo Key'",
+                "minecraft:item_name": "Echo Key",
                 "custom_model_data": {
                   "floats": [
                     3.0
