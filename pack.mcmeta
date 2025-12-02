@@ -5,5 +5,21 @@
 		"min_format": [51,0],
 		"max_format": [88,0],
 		"description": "More Vault"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [51,61],
+				"min_format": [51,0],
+				"max_format": [61,0],
+				"directory": "overlay_51"
+			},
+			{
+				"formats": [62,88],
+				"min_format": [62,0],
+				"max_format": [88,0],
+				"directory": "overlay_62"
+			}
+		]
 	}
 }

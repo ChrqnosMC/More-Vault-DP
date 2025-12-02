@@ -8,14 +8,14 @@
 						"minecraft:ominous_bottle"
 					],
 					"components": {
-						"item_name": "'Dreaming Bottle'",
+						"item_name": "Dreaming Bottle",
 						"custom_model_data": {
 							"floats": [
 								1.0
 							]
 						},
 						"lore": [
-							"{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+							"{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
 						]
 					}
 				}

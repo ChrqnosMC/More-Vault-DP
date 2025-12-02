@@ -374,7 +374,7 @@
             {
               "function": "set_components",
               "components": {
-                "item_name": "'Dreaming Bottle'",
+                "item_name": "\"Dreaming Bottle\"",
                 "custom_model_data": {
                   "floats": [
                     1.0
@@ -400,7 +400,7 @@
             {
               "function": "set_components",
               "components": {
-                "item_name": "'Dreaming Bottle'",
+                "item_name": "\"Dreaming Bottle\"",
                 "custom_model_data": {
                   "floats": [
                     1.0
@@ -426,7 +426,7 @@
             {
               "function": "set_components",
               "components": {
-                "item_name": "'Dreaming Bottle'",
+                "item_name": "\"Dreaming Bottle\"",
                 "custom_model_data": {
                   "floats": [
                     1.0
