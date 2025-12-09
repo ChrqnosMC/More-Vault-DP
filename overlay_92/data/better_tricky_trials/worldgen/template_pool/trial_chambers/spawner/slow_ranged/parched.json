@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "minecraft:trial_chambers/spawner/slow_ranged/parched",
+        "location": "better_tricky_trials:trial_chambers/spawner/slow_ranged/parched",
         "processors": {
           "processors": []
         },
