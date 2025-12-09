@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 88,
-    	"supported_formats": [45,88],
+		"pack_format": 94,
+    	"supported_formats": [45,94],
 		"min_format": [45,0],
-		"max_format": [88,0],
+		"max_format": [94,1],
 		"description": "Better Tricky Trials"
 	},
 	"overlays": {
@@ -15,21 +15,21 @@
 				"directory": "overlay_51"
 			},
 			{
-				"formats": [51,88],
+				"formats": [51,94],
 				"min_format": [51,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_51_2"
 			},
 			{
-				"formats": [59,88],
+				"formats": [59,94],
 				"min_format": [59,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_59"
 			},
 			{
-				"formats": [62,88],
+				"formats": [62,94],
 				"min_format": [62,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_62"
 			}
 		]
